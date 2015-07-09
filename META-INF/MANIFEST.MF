@@ -1,0 +1,211 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: common/vendor/pittpatt/models/detection/yaw_roll_face_detectors.
+ 7.1/head-y0-yi45-p0-pi45-rn30-ri30.5-v24-tree7-2-wmd.bin
+SHA1-Digest: m8hy6kkB4HKcuJP+bvaPYL4lgic=
+
+Name: arch/priv-app/PrebuiltGmsCore/lib/arm64/libjgcastservice.so
+SHA1-Digest: 250EG/C58hD597iJU5YQMr9VUig=
+
+Name: arch/lib/libfilterpack_facedetect.so
+SHA1-Digest: RP9HMGHr17vGI36IkcG2DAUIVZM=
+
+Name: common/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitialize
+ r.apk
+SHA1-Digest: U82Mlrn4/+LMZwWsm0vNSiH8Wmg=
+
+Name: common/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk
+SHA1-Digest: F50ItG30Mlqmuvf/Z2+wIpo8jP8=
+
+Name: arch/lib64/libvorbisencoder.so
+SHA1-Digest: o8eSXt+wthE4NxPaHDFQOLBz0Sw=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: QNoT9yNjTuwIeSspZjOjoNY9N8Q=
+
+Name: arch/priv-app/PrebuiltGmsCore/lib/arm64/libgms-ocrclient.so
+SHA1-Digest: yWAZqKd5etCXs7tQXkEeLAspHao=
+
+Name: common/vendor/pittpatt/models/recognition/face.face.y0-y0-71-N-t
+ ree_7-wmd.bin
+SHA1-Digest: UZkruOjUagNFboqq4gCRc4mK9qw=
+
+Name: arch/priv-app/PrebuiltGmsCore/lib/arm64/libsslwrapper_jni.so
+SHA1-Digest: WAu5sePtcnSfzVLHVKvr2CiPjXI=
+
+Name: common/priv-app/SetupWizard/SetupWizard.apk
+SHA1-Digest: a8qBq6uk2fZIrJVb70JEI5PLAuI=
+
+Name: arch/priv-app/PrebuiltGmsCore/lib/arm/libgmscore.so
+SHA1-Digest: gfh0R4rWflwpuW+dKr500hG+sdI=
+
+Name: common/gapps_scripts.sh
+SHA1-Digest: FvJVGiO1fmzHGHc6KkAiGgC0ux4=
+
+Name: common/vendor/pittpatt/models/detection/multi_pose_face_landmark
+ _detectors.8/landmark_group_meta_data.bin
+SHA1-Digest: p3HCGDvLpZRBiad1LiKyeahUPuA=
+
+Name: arch/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk
+SHA1-Digest: l/83Ta0VaxT+dMp55b86BlUnqSw=
+
+Name: common/etc/permissions/com.google.widevine.software.drm.xml
+SHA1-Digest: Gggf4BO2xlvJgH9ml/1pz/WZTAE=
+
+Name: arch/app/FaceLock/FaceLock.apk
+SHA1-Digest: okBlQaN22JiTW94vRynxhjt2SUI=
+
+Name: arch/addon.d/31-faceunlock.sh
+SHA1-Digest: MIuFXEu3RHKYgVdp/TkSSn0uslQ=
+
+Name: common/vendor/pittpatt/models/detection/multi_pose_face_landmark
+ _detectors.8/right_eye-y0-yi45-p0-pi45-r0-ri20.lg_32-3-tree7-wmd.bin
+SHA1-Digest: n5jHHfd/bGnR1Wxh/9l83YGwvvA=
+
+Name: arch/lib/libgoogle_hotword_jni.so
+SHA1-Digest: Kq1xJrjCs2dDkGeouw7TASNHFEE=
+
+Name: arch/priv-app/PrebuiltGmsCore/lib/arm64/libgcastv2_base.so
+SHA1-Digest: 5FAAWTz04Y/oYDaOP7EH3urfAOg=
+
+Name: arch/priv-app/PrebuiltGmsCore/lib/arm64/libAppDataSearch.so
+SHA1-Digest: RxXy0OSy4RR01r+jS+m3dYb4mU0=
+
+Name: arch/priv-app/PrebuiltGmsCore/lib/arm/libNearbyApp.so
+SHA1-Digest: g2DpSSZkVreqBUxj1bPffOJaOIo=
+
+Name: arch/lib/libfacelock_jni.so
+SHA1-Digest: ZAvVA6FlXtlVImMcYTRSQCtkF+g=
+
+Name: arch/priv-app/Velvet/lib/arm64/libgoogle_speech_micro_jni.so
+SHA1-Digest: lZRmQfkWac7UFe+Gb+iRXExhL2A=
+
+Name: common/priv-app/GoogleLoginService/GoogleLoginService.apk
+SHA1-Digest: r5Gs0NCUZbj9CAsGVYDpNNP9PzA=
+
+Name: common/vendor/pittpatt/models/detection/yaw_roll_face_detectors.
+ 7.1/pose-r.8.1.bin
+SHA1-Digest: bb+VfN8wvLP1NBuF2YMOuEJ8zig=
+
+Name: common/app/GoogleCalendarSyncAdapter/GoogleCalendarSyncAdapter.a
+ pk
+SHA1-Digest: 7cm3EHqtGzKB1rOfkNouWZINAxc=
+
+Name: common/priv-app/GoogleBackupTransport/GoogleBackupTransport.apk
+SHA1-Digest: p7U9mp7VA/h30ohXojQsz22mdlg=
+
+Name: common/framework/com.google.widevine.software.drm.jar
+SHA1-Digest: TTO2xopMSUEWOEg05iCiuwNGBHs=
+
+Name: arch/priv-app/Velvet/Velvet.apk
+SHA1-Digest: zcNtXWYwO076el9pkB2xupv90qw=
+
+Name: common/etc/permissions/com.google.android.maps.xml
+SHA1-Digest: BbK4aFOA+G3wd2qESxbxITfwZYM=
+
+Name: arch/priv-app/PrebuiltGmsCore/lib/arm64/libgmscore.so
+SHA1-Digest: gSL3+8WqHUnd7GCflyZD5sR9v3U=
+
+Name: arch/priv-app/PrebuiltGmsCore/lib/arm64/libWhisper.so
+SHA1-Digest: QaOaWjhUaAplIZoHcghoHmA4o7c=
+
+Name: common/vendor/pittpatt/models/detection/yaw_roll_face_detectors.
+ 7.1/head-y0-yi45-p0-pi45-rp30-ri30.5-v24-tree7-2-wmd.bin
+SHA1-Digest: CQ/GJn2u7MnjIEDQ0XGH2KKhfvE=
+
+Name: common/vendor/pittpatt/models/detection/yaw_roll_face_detectors.
+ 7.1/head-y0-yi45-p0-pi45-r0-ri30.4a-v24-tree7-2-wmd.bin
+SHA1-Digest: BI0DTMZd84RK1kfqwD0IdBIhpOY=
+
+Name: arch/addon.d/30-gapps.sh
+SHA1-Digest: 6u7aYMSsH669003QtZSGuk5u+5A=
+
+Name: common/framework/com.google.android.maps.jar
+SHA1-Digest: dgTooxliLYcvK5DoK4bo/3E6bYo=
+
+Name: common/vendor/pittpatt/models/detection/yaw_roll_face_detectors.
+ 7.1/pose-y-r.8.1.bin
+SHA1-Digest: hhbPX2+LnHU0AfRR8VG3UtDoAm8=
+
+Name: arch/priv-app/PrebuiltGmsCore/lib/arm64/libgames_rtmp_jni.so
+SHA1-Digest: KenPfRjhA4/64JSzl5K/OlKnqe4=
+
+Name: arch/app/FaceLock/lib/arm/libfacelock_jni.so
+SHA1-Digest: dKiVqduD/0jiRq/4S8Kmw+1TKRU=
+
+Name: common/framework/com.google.android.media.effects.jar
+SHA1-Digest: dUGD1Ra/IuymYUDkpgXt3bY9f2U=
+
+Name: common/priv-app/Phonesky/Phonesky.apk
+SHA1-Digest: lm+cCFVTd++EFo7GWlV4X5ZPPLE=
+
+Name: common/framework/com.google.android.camera2.jar
+SHA1-Digest: op9Qq9Awz0KMkztPHBUuxhhJETE=
+
+Name: common/priv-app/GoogleFeedback/GoogleFeedback.apk
+SHA1-Digest: +Xb/z4cCgoH3wO1tPkWFcqkBKEw=
+
+Name: arch/priv-app/PrebuiltGmsCore/lib/arm/libconscrypt_gmscore_jni.s
+ o
+SHA1-Digest: c9VQCMwAcuKksJQibPHNZPCVe6U=
+
+Name: common/app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.a
+ pk
+SHA1-Digest: cBLOLX4JpH0YnhdeLPpCn+oN4Ss=
+
+Name: arch/priv-app/Hotword/Hotword.apk
+SHA1-Digest: 8GC6LtqbxwNWhlXw1JkHKhND3RQ=
+
+Name: arch/priv-app/Velvet/lib/arm64/libvcdecoder_jni.so
+SHA1-Digest: 818q2DC5GLGKdSkUBS2yfHozvGc=
+
+Name: arch/priv-app/PrebuiltGmsCore/lib/arm64/libgcastv2_support.so
+SHA1-Digest: w2Eyitd031YhOm7zgQ4aC9z1e6U=
+
+Name: common/vendor/pittpatt/models/detection/multi_pose_face_landmark
+ _detectors.8/nose_base-y0-yi45-p0-pi45-r0-ri20.lg_32-tree7-wmd.bin
+SHA1-Digest: LhQpM2Oo+4Vnao0xd3i/ZJJholk=
+
+Name: arch/lib64/libfacelock_jni.so
+SHA1-Digest: umqRNIHX989bEjj/t9cmYe4J7TI=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: 33EUFJNMIsbufjFFV8O4B/4cWkQ=
+
+Name: arch/lib/libgoogle_recognizer_jni_l.so
+SHA1-Digest: 69PSRUbs4H0/AGIPz/EJA0tcxfU=
+
+Name: arch/priv-app/Velvet/lib/arm64/libcronet.so
+SHA1-Digest: 9O1XNWSFES8Up5f3rlzrqJVDka0=
+
+Name: common/etc/permissions/com.google.android.camera2.xml
+SHA1-Digest: z2SNvXqrPvG4E73UNpwee0K02nU=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: 71Q6Rn2DDZl1zPDVaaeEHItd+Yg=
+
+Name: common/priv-app/GoogleServicesFramework/GoogleServicesFramework.
+ apk
+SHA1-Digest: N2TlRL8LZynrNnmgJ3bvOgp6gpQ=
+
+Name: arch/priv-app/PrebuiltGmsCore/lib/arm64/libconscrypt_gmscore_jni
+ .so
+SHA1-Digest: 6o9ftu6P0G3+jwHErXrVsy6q9FQ=
+
+Name: arch/priv-app/PrebuiltGmsCore/lib/arm64/libNearbyApp.so
+SHA1-Digest: KZ3QtSDt9hwmCmyeG8akYOuFyMo=
+
+Name: arch/priv-app/Velvet/lib/arm64/libgoogle_speech_jni.so
+SHA1-Digest: zJLlp3NX55Yu+IC9CWhRBDbGAdQ=
+
+Name: common/vendor/pittpatt/models/detection/multi_pose_face_landmark
+ _detectors.8/left_eye-y0-yi45-p0-pi45-r0-ri20.lg_32-tree7-wmd.bin
+SHA1-Digest: +b+nZG40XsfyqhK0UYCOpFEHIVs=
+
+Name: common/etc/permissions/com.google.android.media.effects.xml
+SHA1-Digest: 1ymq8QA4Aky6u6O7KNmEtnQRsho=
+
+Name: arch/lib/libjni_latinimegoogle.so
+SHA1-Digest: YcOu5gsqCcF1+dW5zRX/hpmo8Uc=
+
